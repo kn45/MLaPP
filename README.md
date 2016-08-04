@@ -8,5 +8,5 @@ It is translated by some machine learning fans for **STUDY USE ONLY**. Should th
 
 To translators:
 
-- Each charpter in separate directories.
-- Pictures of the markdown files should be arranged …..
+- Welcome
+- Format description and tips are in issues
